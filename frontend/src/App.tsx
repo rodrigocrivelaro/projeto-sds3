@@ -19,7 +19,7 @@ function App() {
           </div>
 
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Taxa de sucesso (%)</h5>
+            <h5 className="text-center text-secondary">Total de vendas por Vendedor (%)</h5>
             <DonutChart />
           </div>
 
